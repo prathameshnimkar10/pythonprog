@@ -1,0 +1,6 @@
+print(4 + 6)
+print(4 - 6)
+print(11 - 6)
+print(4 * 6)
+print(4 / 6)
+print(30 / 6)
